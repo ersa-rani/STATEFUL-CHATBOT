@@ -85,5 +85,5 @@ This project is licensed under the **MIT License**.
 ---
 
 ## 📞 Contact
-For any queries or suggestions, reach out at: [your-email@example.com](mailto:ersarani955@gmail.com)
+For any queries or suggestions, reach out at: [email](mailto:ersarani955@gmail.com)
 
